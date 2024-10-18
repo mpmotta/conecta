@@ -12,7 +12,7 @@
 </head>
 <body class="bg-secondary">
     <div class="container bg-light p-0">
-    <h1 class="bg-info-subtle text-center p-5">Minha Agenda</h1>
+    <h1 class="bg-success text-center p-5">Minha Agenda</h1>
     <section class="p-5">
         <table class="table table-striped">
             <tr>
